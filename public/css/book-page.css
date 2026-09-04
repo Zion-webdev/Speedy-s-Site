@@ -222,6 +222,10 @@ div.character>h2 {
   div.book>img {
     width: 27vw !important;
   }
+
+  .more-pages {
+    width: 88%;
+  }
 }
 
 @media (max-width: 700px) {
